@@ -1,0 +1,16 @@
+.toparea{
+    padding:15px 0;
+}
+.toparea img{
+    width:180px;
+}
+.nav-link{
+    font-weight:bold !important;
+}
+.nav-link{
+    border-right:solid 1px #CCC;
+    padding:20px !important;
+}
+.nav-link:last-child{
+    border:none;
+}

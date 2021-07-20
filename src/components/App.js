@@ -1,11 +1,11 @@
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Header from './Header';
+import Menu from './Menu';
 function App() {
   return (
     <div>
-      <Header/>
+      <Menu/>
     </div>
     
   );
