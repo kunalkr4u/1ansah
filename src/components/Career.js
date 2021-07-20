@@ -9,7 +9,7 @@ function Career() {
                     <h2>Career</h2>
                     <Breadcrumb className="nav justify-content-center">
                         <Breadcrumb.Item href="../"><i className="fa fa-home"></i> Home</Breadcrumb.Item>
-                        <Breadcrumb.Item active>Career</Breadcrumb.Item>
+                        <Breadcrumb.Item active><i className="fa fa-handshake-o"></i> Career</Breadcrumb.Item>
                     </Breadcrumb>
                     </Col>
                 </Row>
