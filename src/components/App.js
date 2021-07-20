@@ -1,14 +1,13 @@
 
 import './App.css';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Header from './Header';
 function App() {
   return (
     <div>
-      <h1>Hello</h1>
-      <h2>World</h2>
+      <Header/>
     </div>
     
   );
 }
-
 export default App;
