@@ -18,11 +18,6 @@ function About() {
           <Container className="inner-body">
                 <Row>
                     <Col>
-                        <h2>Who We Are</h2>
-                    </Col>
-                </Row>
-                <Row>
-                    <Col>
                         <p>We are working on Artificial Intelligences projects. Company clients will be from the following sectors :</p>
                         <ul>
                             <li>Aviation</li>
