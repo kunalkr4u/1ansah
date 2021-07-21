@@ -2,8 +2,8 @@ import React from 'react';
 import {Container,Row,Col} from 'react-bootstrap';
 function Footer() {
     return (
-        <section>
-            <Container className="footer">
+        <section className="footer">
+            <Container>
                 <Row>
                     <Col md={3}>
                         <h4>Official Address</h4>
