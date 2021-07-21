@@ -1,0 +1,15 @@
+.carousel-control-prev{
+    background:linear-gradient(to right, rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0));
+    padding:5px;
+}
+.carousel-control-next{
+    background:linear-gradient(to left, rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0));
+    padding:5px;
+}
+
+.about{
+    padding:75px 0;
+}
+.about h2{
+    text-align:center;
+}

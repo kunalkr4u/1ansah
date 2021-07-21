@@ -16,7 +16,6 @@ function About() {
               </Row>
           </Container>
           <Container className="inner-body">
-            <section className="about">
                 <Row>
                     <Col>
                         <h2>Who We Are</h2>
@@ -36,7 +35,6 @@ function About() {
     </p>
                     </Col>
                 </Row>
-            </section>
           </Container>
       </section>
     );

@@ -15,3 +15,9 @@
 .breadcrumb-item.active{
     font-weight: bold;
 }
+.inner-body{
+    padding:50px 0;
+}
+.inner-body h2{
+    text-align: center;
+}

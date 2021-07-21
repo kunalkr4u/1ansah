@@ -16,12 +16,19 @@ function Contact() {
             </Container>
             <Container className="inner-body">
                 <Row>
-                    <Col>
+                    <Col md={6}>
+                        <h4>Official Address</h4>
+                        <p><b>1 Ansah Technologies</b></p>
+                        <p>Lucknow, Uttar Pardesh</p>
+
+                        <p><i className="fa fa-phone"></i> +91-9999999999</p>
+                        <p><i className="fa fa-envelope"></i> contact@1ansah.in</p>
+                    </Col>
+                    <Col md={6}>
                     </Col>
                 </Row>
             </Container>
         </section>
     );
   }
-  
   export default Contact;
