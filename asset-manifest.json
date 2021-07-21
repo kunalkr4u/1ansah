@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/1ansah/static/css/main.5f115203.chunk.css",
-    "main.js": "/1ansah/static/js/main.d5e05b4a.chunk.js",
-    "main.js.map": "/1ansah/static/js/main.d5e05b4a.chunk.js.map",
-    "runtime-main.js": "/1ansah/static/js/runtime-main.c429afe1.js",
-    "runtime-main.js.map": "/1ansah/static/js/runtime-main.c429afe1.js.map",
-    "static/css/2.081f420c.chunk.css": "/1ansah/static/css/2.081f420c.chunk.css",
-    "static/js/2.dc5709c9.chunk.js": "/1ansah/static/js/2.dc5709c9.chunk.js",
-    "static/js/2.dc5709c9.chunk.js.map": "/1ansah/static/js/2.dc5709c9.chunk.js.map",
-    "index.html": "/1ansah/index.html",
-    "static/css/2.081f420c.chunk.css.map": "/1ansah/static/css/2.081f420c.chunk.css.map",
-    "static/css/main.5f115203.chunk.css.map": "/1ansah/static/css/main.5f115203.chunk.css.map",
-    "static/js/2.dc5709c9.chunk.js.LICENSE.txt": "/1ansah/static/js/2.dc5709c9.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/1ansah/static/media/dark1.a056fea3.png",
-    "static/media/logo.d48bfb30.webp": "/1ansah/static/media/logo.d48bfb30.webp"
+    "main.css": "/KunalMahto/static/css/main.5d14687c.chunk.css",
+    "main.js": "/KunalMahto/static/js/main.d5e05b4a.chunk.js",
+    "main.js.map": "/KunalMahto/static/js/main.d5e05b4a.chunk.js.map",
+    "runtime-main.js": "/KunalMahto/static/js/runtime-main.02f6dd2f.js",
+    "runtime-main.js.map": "/KunalMahto/static/js/runtime-main.02f6dd2f.js.map",
+    "static/css/2.081f420c.chunk.css": "/KunalMahto/static/css/2.081f420c.chunk.css",
+    "static/js/2.dc5709c9.chunk.js": "/KunalMahto/static/js/2.dc5709c9.chunk.js",
+    "static/js/2.dc5709c9.chunk.js.map": "/KunalMahto/static/js/2.dc5709c9.chunk.js.map",
+    "index.html": "/KunalMahto/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/KunalMahto/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.5d14687c.chunk.css.map": "/KunalMahto/static/css/main.5d14687c.chunk.css.map",
+    "static/js/2.dc5709c9.chunk.js.LICENSE.txt": "/KunalMahto/static/js/2.dc5709c9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/KunalMahto/static/media/dark1.a056fea3.png",
+    "static/media/logo.d48bfb30.webp": "/KunalMahto/static/media/logo.d48bfb30.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.c429afe1.js",
+    "static/js/runtime-main.02f6dd2f.js",
     "static/css/2.081f420c.chunk.css",
     "static/js/2.dc5709c9.chunk.js",
-    "static/css/main.5f115203.chunk.css",
+    "static/css/main.5d14687c.chunk.css",
     "static/js/main.d5e05b4a.chunk.js"
   ]
 }
