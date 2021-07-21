@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/1Anash/static/css/main.c4011fa9.chunk.css",
-    "main.js": "/1Anash/static/js/main.d5e05b4a.chunk.js",
-    "main.js.map": "/1Anash/static/js/main.d5e05b4a.chunk.js.map",
-    "runtime-main.js": "/1Anash/static/js/runtime-main.f8052fbc.js",
-    "runtime-main.js.map": "/1Anash/static/js/runtime-main.f8052fbc.js.map",
-    "static/css/2.081f420c.chunk.css": "/1Anash/static/css/2.081f420c.chunk.css",
-    "static/js/2.dc5709c9.chunk.js": "/1Anash/static/js/2.dc5709c9.chunk.js",
-    "static/js/2.dc5709c9.chunk.js.map": "/1Anash/static/js/2.dc5709c9.chunk.js.map",
-    "index.html": "/1Anash/index.html",
-    "static/css/2.081f420c.chunk.css.map": "/1Anash/static/css/2.081f420c.chunk.css.map",
-    "static/css/main.c4011fa9.chunk.css.map": "/1Anash/static/css/main.c4011fa9.chunk.css.map",
-    "static/js/2.dc5709c9.chunk.js.LICENSE.txt": "/1Anash/static/js/2.dc5709c9.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/1Anash/static/media/dark1.a056fea3.png",
-    "static/media/logo.d48bfb30.webp": "/1Anash/static/media/logo.d48bfb30.webp"
+    "main.css": "/1Ansah/static/css/main.5e25ca65.chunk.css",
+    "main.js": "/1Ansah/static/js/main.d5e05b4a.chunk.js",
+    "main.js.map": "/1Ansah/static/js/main.d5e05b4a.chunk.js.map",
+    "runtime-main.js": "/1Ansah/static/js/runtime-main.af1be74e.js",
+    "runtime-main.js.map": "/1Ansah/static/js/runtime-main.af1be74e.js.map",
+    "static/css/2.081f420c.chunk.css": "/1Ansah/static/css/2.081f420c.chunk.css",
+    "static/js/2.dc5709c9.chunk.js": "/1Ansah/static/js/2.dc5709c9.chunk.js",
+    "static/js/2.dc5709c9.chunk.js.map": "/1Ansah/static/js/2.dc5709c9.chunk.js.map",
+    "index.html": "/1Ansah/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/1Ansah/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.5e25ca65.chunk.css.map": "/1Ansah/static/css/main.5e25ca65.chunk.css.map",
+    "static/js/2.dc5709c9.chunk.js.LICENSE.txt": "/1Ansah/static/js/2.dc5709c9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/1Ansah/static/media/dark1.a056fea3.png",
+    "static/media/logo.d48bfb30.webp": "/1Ansah/static/media/logo.d48bfb30.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8052fbc.js",
+    "static/js/runtime-main.af1be74e.js",
     "static/css/2.081f420c.chunk.css",
     "static/js/2.dc5709c9.chunk.js",
-    "static/css/main.c4011fa9.chunk.css",
+    "static/css/main.5e25ca65.chunk.css",
     "static/js/main.d5e05b4a.chunk.js"
   ]
 }
